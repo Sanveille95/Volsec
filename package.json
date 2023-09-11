@@ -4,7 +4,7 @@
   "description": "A hosting & Github project",
   "main": "main",
   "scripts": {
-    "test": "webpack"
+    "build": "webpack"
   },
   "repository": {
     "type": "git",
