@@ -54,3 +54,8 @@ li {
 .search-form {
   margin-bottom: 20px;
 }
+
+footer {
+  text-align: center;
+  margin: 0 auto;
+}
